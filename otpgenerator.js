@@ -9,5 +9,6 @@
       }
       return otp;
     }
-    let result=optgenrator();
-    console.log(result);
+    let OPT=optgenrator();
+    console.log(OPT)
+    
